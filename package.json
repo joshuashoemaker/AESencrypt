@@ -1,0 +1,22 @@
+{
+  "name": "aesencrypt",
+  "version": "1.0.0",
+  "description": "Encrypt and decrypt files for AES methods",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshuashoemaker/AESencrypt.git"
+  },
+  "author": "Joshua Shoemaker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshuashoemaker/AESencrypt/issues"
+  },
+  "homepage": "https://github.com/joshuashoemaker/AESencrypt#readme",
+  "dependencies": {
+    "chilkat_node8_win32": "^9.50.75"
+  }
+}
